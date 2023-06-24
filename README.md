@@ -1,1 +1,1 @@
-# Missing_Child_Identification_System_Using_DeepLearning
+A missing child identification system using deep learning is a technology that leverages the power of artificial intelligence and deep neural networks to aid in the identification and recovery of missing children. It utilizes various techniques from the field of computer vision and pattern recognition to analyze images or videos and extract relevant information for identification purposes.
